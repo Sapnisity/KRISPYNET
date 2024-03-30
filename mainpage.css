@@ -1,0 +1,26 @@
+@font-face {
+	font-family:yeezy_tstar-bold-webfont;
+	src: url(yeezy_tstar-bold-webfont.ttf);
+}
+body {
+	padding-inline:15%;
+	padding-block:0px;
+	background-color:#EDEDE3;
+}
+embed {
+	padding-block-start:20px;
+	padding-inline:25%;
+}
+p {
+	color:#979691;
+	text-align:center;
+}
+#page {
+	padding:20px;
+	background-color:#EDEDE3;
+	font-family:yeezy_tstar-bold-webfont;
+}
+#heading {
+	text-align:center;
+	margin-block:-3px;
+}
